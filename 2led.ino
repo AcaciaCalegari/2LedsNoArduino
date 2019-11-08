@@ -1,6 +1,6 @@
 void setup() {
- pinMode(10, OUTPUT);
- pinMode(9, OUTPUT);
+ pinMode(10, OUTPUT);//led verde no pino 10
+ pinMode(9, OUTPUT);//led vermelho no pino 9
 }
 
 void loop() {
